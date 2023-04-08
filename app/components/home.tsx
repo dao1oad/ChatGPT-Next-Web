@@ -121,7 +121,7 @@ function _Home() {
         <div className={styles["sidebar-header"]}>
           <div className={styles["sidebar-title"]}>ChatGPT DAO</div>
           <div className={styles["sidebar-sub-title"]}>
-            轻点撸，账号在烧钱.
+            轻点撸，账号在烧钱。。。
           </div>
           <div className={styles["sidebar-logo"]}>
             <ChatGptIcon />
